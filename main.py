@@ -13,7 +13,7 @@ mywindow = Tk()
 
 
 mywindow.resizable(False,False)
-mywindow.wm_title("Pokémons")
+mywindow.wm_title("PacMan")
 mywindow.geometry("900x900")
 mywindow.configure(bg="white")
 canvas = Canvas(mywindow,width=1200, height=800, background='white')
