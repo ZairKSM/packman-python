@@ -21,3 +21,5 @@ canvas = Canvas(mywindow,width=1200, height=800, background='white')
 
 main(mywindow,canvas)
 
+mywindow.mainloop()
+
