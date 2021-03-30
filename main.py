@@ -4,13 +4,13 @@ import pathlib
 from tkinter import *
 from PIL import Image, ImageTk
 from random import randint
-from time import sleep
 
 mywindow = Tk()
 
+#Boucle principale
 def main(mywindow,canvas):
-    canvas.pack()
-    mywindow.update()
+    while True:
+        mywindow.update()
 
 
 
