@@ -1,8 +1,6 @@
 import os
 import pathlib
 from tkinter import *
-from tkinter import messagebox
-import tkinter.font as tkFont
 from PIL import Image, ImageTk
 from random import randint
 from time import sleep
