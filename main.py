@@ -1,2 +1,1 @@
-salut = 0 
-COucouc = 0
+from time import sleep
